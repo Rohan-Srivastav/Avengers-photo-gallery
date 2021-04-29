@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color:darkred !important;
+    padding-bottom: -80;
+}  
+#banner{
+    width:80%;
+    height:15%;
+}
+.images{
+    width: 310px;
+    height: 342px;
+}
+.slides{
+    width:80%;
+    height:595px;
+}
+.font{
+    font-weight: bold;
+    font-size: 45px;
+}
